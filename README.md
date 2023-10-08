@@ -12,6 +12,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="VUE.JS" height="30" width="40" 
   src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png">
+ <img align="center" alt="PHP" height="30" width="40" 
+  src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png">
 </div>
  
  <br>
