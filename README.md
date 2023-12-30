@@ -16,7 +16,7 @@
   src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png">
 </div>
  <img align="center" alt="PHP" height="30" width="40" 
-  src="https://seeklogo.com/vector-logo/363134/laravel">
+  src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png">
 </div>
  
  <br>
