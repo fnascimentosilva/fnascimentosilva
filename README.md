@@ -16,6 +16,8 @@
   src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png">
  <img align="center" alt="PHP" height="30" width="40" 
   src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png">
+ <img align="center" alt="REACT" height="30" width="40" 
+  src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
 </div>
  
  <br>
