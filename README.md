@@ -14,7 +14,6 @@
   src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png">
  <img align="center" alt="PHP" height="30" width="40" 
   src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png">
-</div>
  <img align="center" alt="PHP" height="30" width="40" 
   src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png">
 </div>
