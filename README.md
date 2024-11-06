@@ -22,7 +22,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Em busca de minha primeira vaga como Dev!
  
 <div> 
   
