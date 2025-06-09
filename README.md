@@ -10,12 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="VUE.JS" height="30" width="40" 
-  src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png">
- <img align="center" alt="PHP" height="30" width="40" 
-  src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png">
- <img align="center" alt="PHP" height="30" width="40" 
-  src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png">
+
  <img align="center" alt="REACT" height="30" width="40" 
   src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
 </div>
